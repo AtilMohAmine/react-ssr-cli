@@ -1,7 +1,7 @@
 {
-  "name": "react-ssr-cli",
-  "version": "1.0.0",
-  "description": "",
+  "name": "react-to-ssr-cli",
+  "version": "1.0.1",
+  "description": "A command-line interface for server-side rendering (SSR) React applications effortlessly.",
   "main": "cli.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/AtilMohAmine/react-ssr-cli.git"
   },
-  "author": "",
+  "author": "Mohamed El Amine Atil",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/AtilMohAmine/react-ssr-cli/issues"
