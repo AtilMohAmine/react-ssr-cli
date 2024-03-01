@@ -1,5 +1,8 @@
 # React-SSR-CLI
 
+[![npm version](https://badge.fury.io/js/react-to-ssr-cli.svg)](https://badge.fury.io/js/react-to-ssr-cli)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 react-ssr-cli is a command-line interface for converting React applications into server-side rendered (SSR) applications effortlessly.
 
 ## Features
